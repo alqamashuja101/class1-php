@@ -16,6 +16,7 @@
         else{
             echo "$a is ODD".$a % 2;
         }
+        $c = 20;
     ?>
 </body>
 </html>
